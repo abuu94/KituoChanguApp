@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Kituo Changu App</string>
+    <string name="txt_heading">Karibu Sana Ndungu Mwananchi Katika Kituo Changu App</string>
+    <string name="img_content">Hii ni Picha ya Kitua cha Kupiga Kura</string>
+    <string name="btn_start">Anzisha</string>
+
+    <string name="txt_welcome">Popote Ulipo..!!  Peruzi Kituo Chako</string>
+    <string name="txt_details">
+        Hii ni App itakayo kusaidia kukitambua Kituo Chako Cha kupiga Kura
+        Ili uweze kutumia App hii , unapaswa Kulijua jina la Sheha wako kwa ukamilifu a usahihi.
+        Pia utatakiwa kuja taarifa zako za msingi.  Pia itakuonesha katika Ramani eneo ambalo ndipo unapotakiwa
+        kwenda kupiga kura. Ahsate sana.
+    </string>
+    <string name="btn_ask">Uliza</string>
+
+    <string name="txt_request">Jaza..!! Ufikishwe Kituoni Kwako</string>
+    <string name="edt_fname">Ingiza Jina la Kwanza</string>
+    <string name="edt_sname">Ingiza Jina la Pili</string>
+    <string name="edt_lname">Ingiza Jina la Tatu</string>
+    <string name="edt_phone">Ingiza  Nambari yako Simu</string>
+    <string name="edt_ShehaAutoComplete">Ingiza Jina la  Sheha wako</string>
+    <string-array name="sheha_array">
+        <item>Abubakar Yussuf</item>
+        <item>Abdulaziz Othman</item>
+        <item>Salim Nyiro</item>
+        <item>Simon Raila</item>
+        <item>Amos Kibaki</item>
+        <item>Ally Sharif</item>
+        <item>King Wanyama</item>
+        <item>Eric Mjaluo</item>
+    </string-array>
+    <string name="edt_Address">Ingiza Jina la Shehia</string>
+    <string name="btn_request">Tuma</string>
+
+    <string name="txt_last_heading">
+        Tuitunze Amani katika Kipindi cha Uchaguzi 2020.
+        Hongera, Kwa Kutumia App yetu,
+        Share na kila unaemjali kwa Kubonyeza kutife kifuatavyo.
+    </string>
+    <string name="btn_share">Share..</string>
+    <string name="img_peace">Hii ni Picha ya Kutunza Amani katika Uchaguzi</string>
+    <string name="txt_last_footer">Amani ndio Maendeleo yetu</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="btn_save">Save</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_view">View</string>
+    <!--<string name="btn_delete">Delete</string>-->
+    <string name="txt_data_heading">Karibu Admin to Data Entry
+        Jaza Taarifa za Masheha na Vituo Vyao vya Kupigia Kura
+
+    </string>
+
+
+    <string name="edt_sheha">Ingiza jina la Sheha</string>
+    <string name="edt_kituo">Ingiza jina la Kituo </string>
+    <string name="edt_Xcordina">latitude</string>
+    <string name="edt_Ycordina">longitude</string>
+
+    <string name="btn_register">Sajili (Admin)</string>
+    <string name="btn_login">Ingia (Admin)</string>
+
+    <string name="tv_sheha">Sajili</string>
+    <string name="tv_kituo">Sajili</string>
+    <string name="tv_lat">Sajili</string>
+    <string name="tv_long">Sajili</string>
+    <string name="tv_delete">Delete</string>
+    <string name="btn_delete">Delete</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+</resources>

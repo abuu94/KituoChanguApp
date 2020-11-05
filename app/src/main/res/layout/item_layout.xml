@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:padding="10dp"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <TextView
+        android:textColor="#00BCD4"
+        android:textSize="20sp"
+        android:id="@+id/tv_sheha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="tv_sheha" />
+
+    <TextView
+        android:textColor="#00BCD4"
+        android:textSize="20sp"
+        android:id="@+id/tv_kituo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="tv_kituo" />
+
+    <TextView
+        android:textColor="#00BCD4"
+        android:textSize="20sp"
+        android:id="@+id/tv_lat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="tv_lat" />
+    <TextView
+        android:textColor="#00BCD4"
+        android:textSize="20sp"
+        android:id="@+id/tv_long"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="tv_long" />
+
+   <!-- kwa delete-->
+    <TextView
+        android:gravity="center"
+        android:id="@+id/tv_delete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_delete" />
+
+</LinearLayout>

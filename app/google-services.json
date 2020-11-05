@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "162087344118",
+    "firebase_url": "https://kituochanguapp.firebaseio.com",
+    "project_id": "kituochanguapp",
+    "storage_bucket": "kituochanguapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162087344118:android:b4b84e3a6c55bae374d9d7",
+        "android_client_info": {
+          "package_name": "com.example.kituochanguapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162087344118-9p1sf8m8g844fugsu25dpirg8s1ce24u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD90uGm7_oK3eXWCbalQ6kg7_W-LRAtjrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162087344118-9p1sf8m8g844fugsu25dpirg8s1ce24u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
